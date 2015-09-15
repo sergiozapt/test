@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Pipeline
+        psr4_prefix: Pipeline
+        src_path: app
